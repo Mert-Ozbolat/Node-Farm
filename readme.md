@@ -11,13 +11,21 @@ Node Farm is a simple web application built using basic Node.js and JavaScript s
 ## Project Structure 🗺🧭
 node-farm/
 │
+
 ├── dev-data/
+
 │   └── data.json       # JSON file containing product data
+
 ├── templates/
+
 │   ├── overview.html   # Template for the overview page
+
 │   ├── product.html    # Template for the product detail page
+
 │   └── card.html   # Template for individual products
+
 ├── index.js            # Main server file
+
 └── README.md           # Project description
 
 
